@@ -33,31 +33,32 @@ All contributions follow a **branch → Pull Request → review → merge** work
    git clone https://github.com/your-username/Opnly.git
    cd Opnly
    ```
-
-3.	Create a new branch
+3. Create a new branch
 
 ```bash
 git checkout -b add-opportunity
 ```
 
-4.	Add the opportunity
-	•	Add it to the appropriate file or folder
-	•	Follow the existing format used in the repository
+4. Add the opportunity
+   - Add it to the appropriate file or folder
+   - Follow the existing format used in the repository
+
 5.	Commit your changes
 
 ```bash 
 git commit -m "Add opportunity: short description"
 ```
 
-6.	Push your branch
+6. Push your branch
 
 ```bash
 git push origin add-opportunity
 ```
 
 7.	Open a Pull Request
-	•	Clearly describe the opportunity
-	•	Include a link, deadline, and eligibility details where applicable
+
+- Clearly describe the opportunity
+- Include a link, deadline, and eligibility details where applicable
 
 Once reviewed and approved, your PR will be merged into the main branch 🎉
 
